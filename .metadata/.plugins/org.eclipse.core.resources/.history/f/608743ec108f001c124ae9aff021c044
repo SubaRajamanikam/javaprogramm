@@ -1,0 +1,12 @@
+package Collect;
+
+import java.util.ArrayList;
+
+public class Sample3 {
+
+	public static void main(String[] args) {
+	ArrayList<String>bi=new ArrayList<>();
+
+	}
+
+}

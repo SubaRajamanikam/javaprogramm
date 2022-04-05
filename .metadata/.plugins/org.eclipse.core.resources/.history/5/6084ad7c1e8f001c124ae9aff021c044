@@ -1,0 +1,10 @@
+package Collect;
+
+public class UseWhilAnimal {
+
+	public static void main(String[] args) {
+	WhilAnimal a1=new WhilAnimal("");
+
+	}
+
+}

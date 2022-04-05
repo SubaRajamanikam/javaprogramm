@@ -1,0 +1,14 @@
+package com.stringmethods;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		 
+		
+		StringBuffer a=new StringBuffer("Edureka");
+		StringBuffer newString=a.append("!!");
+		System.out.println(newString);
+
+	}
+
+}

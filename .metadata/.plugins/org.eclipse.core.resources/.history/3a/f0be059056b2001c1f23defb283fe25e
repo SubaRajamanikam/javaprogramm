@@ -1,0 +1,15 @@
+package com.stringmethods;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		 
+		
+		StringBuffer a=new StringBuffer("Edureka");
+		StringBuffer newString=a.append("!!");
+		a.insert(0, 'w');
+		System.out.println(a);
+
+	}
+
+}

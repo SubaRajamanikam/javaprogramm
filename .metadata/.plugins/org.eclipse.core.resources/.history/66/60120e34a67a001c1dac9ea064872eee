@@ -1,0 +1,9 @@
+
+public class laptopex2 {
+public static void main(String[]args) {
+	laptopex1 l=new laptopex1();
+	l.name="lenovo";
+	l.price=250000l;
+	
+}
+}

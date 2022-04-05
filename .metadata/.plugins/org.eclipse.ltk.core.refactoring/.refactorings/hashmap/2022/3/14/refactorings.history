@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;QueueDemo.java&apos; to &apos;Newcollect/src/com&apos;&#x0D;&#x0A;- Original project: &apos;hashmap&apos;&#x0D;&#x0A;- Destination element: &apos;Newcollect/src/com&apos;&#x0D;&#x0A;- Original element: &apos;hashmap.QueueDemo.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Newcollect/src&lt;com" element1="/src&lt;hashmap{QueueDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1648568489743" units="1" version="1.0"/>
+</session>

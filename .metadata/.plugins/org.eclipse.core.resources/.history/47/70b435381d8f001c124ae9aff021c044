@@ -1,0 +1,10 @@
+package Collect;
+
+public class WhilAnimal {
+String animal;
+String family;
+int  weight;
+
+
+
+}

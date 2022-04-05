@@ -1,0 +1,13 @@
+package Collect2;
+
+public class UseElerticlaShop {
+
+	public static void main(String[] args) {
+		ElerticlaShop e1=new ElerticlaShop("wireharrens",125,10,150);
+		ElerticlaShop e2=new ElerticlaShop("wireharrens",165,10,150);
+        ElerticlaShop e3=new ElerticlaShop("wireharrens",185,10,150);
+        
+        
+	}
+
+}

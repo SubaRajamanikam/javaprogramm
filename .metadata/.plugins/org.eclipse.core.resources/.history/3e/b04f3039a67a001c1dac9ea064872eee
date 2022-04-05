@@ -1,0 +1,5 @@
+
+public class laptopex1 {
+String name;
+long price;
+}
